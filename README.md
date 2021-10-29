@@ -1,1 +1,3 @@
 # docelar
+
+Run `mvn`
