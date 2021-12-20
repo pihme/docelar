@@ -56,6 +56,6 @@ public class HomeView extends HorizontalLayout {
         sayHello.addClickListener(e -> {
             Notification.show("Hello " + name.getValue());
         });
+    
     }
-
 }

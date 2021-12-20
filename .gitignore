@@ -12,3 +12,7 @@ buildNumber.properties
 /node_modules/
 /docelar.iml
 /uploads/
+/.classpath
+/.project
+/.settings/
+
